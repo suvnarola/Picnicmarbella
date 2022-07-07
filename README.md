@@ -4,11 +4,7 @@ We have created one custom WordPress plugin to achieve one custom functionality 
 
 Below we have given one website detail on which we have recently made some custom functionalities.
 
-Picnicmarbella test user:
-Login URL: https://www.picnicmarbella.com/wp-login.php
-Username: narola
-Password: NQPs)L!aiQCyr&bxcr!iM7Uv
-After login URL to visit: https://www.picnicmarbella.com/product/breakfast/
+Please visit: https://www.picnicmarbella.com/product/breakfast/
  
 This project is about book a picnic for your staff online. In this project, companies can book small picnic for their employees with a meal. So in this project, our challenge was to develop all custom options for booking based on our client requirement. Like picnic location, several persons, picnic date, and picnic timeslots with additional add-ons selection.
 
